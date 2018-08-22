@@ -1,0 +1,21 @@
+what do we want to do?
+Purpose of the case is 
+(i) to identify best sellers, 
+(ii) to build a model able to predict best sellers. 
+
+So, we want to transform the dataset to make it more friendly to our purposes:
+The first thing I did was to eliminate the part of the urls that is 
+http://eu.puma.com/it/en/pd
+then the 
+.html
+then the 
+/
+
+stock es inventario. stock decrease te dice cuántos fueron vendido ese día. Entonces el que tenga mayor stock 
+decrease es el mejor o best seller. Y debería coincidir con el valor más pequeño de position (el ranking más
+alto)
+
+type" es qué cambió
+Position creo que es el ranking (1=más vendido, 9999=menos vendido)
+
+
