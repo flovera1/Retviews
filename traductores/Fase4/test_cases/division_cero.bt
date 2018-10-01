@@ -1,0 +1,7 @@
+with 
+	var foo <- 10, bar <- 42, cero: int
+
+begin
+	foo <- bar;
+	foo <- 42/0;
+end

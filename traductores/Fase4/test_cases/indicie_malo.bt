@@ -1,0 +1,6 @@
+with 
+	var foo : array [42] of array [42] of int
+begin
+
+	foo[-1][1] <- 4;
+end

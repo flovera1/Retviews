@@ -1,0 +1,5 @@
+with 
+	var foo, bar: int
+begin
+	foo <- bar;
+end
